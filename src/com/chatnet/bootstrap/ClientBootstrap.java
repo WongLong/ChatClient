@@ -7,7 +7,7 @@ import javafx.stage.Stage;
 
 public class ClientBootstrap extends Application {
 	public static void main(String[] args) {
-		
+		System.out.println("holle");
 		Application.launch(args);
 	}
 
